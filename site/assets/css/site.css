@@ -1,0 +1,26 @@
+.navbar{
+  background-color: #F0F2F6 !important;
+}
+#navbarResponsive .navbar-nav .nav-link{
+  color: #000;
+}
+img{
+  height: 50px;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
+
+
+
+@media (min-width: 1200px){
+.container {
+    max-width: 1900px;
+}
+}
