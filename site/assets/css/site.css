@@ -14,8 +14,65 @@ img{
   min-width: 100%;
   min-height: 100%;
 }
+.viewport-header {
+  position: relative;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.girl img{
+  width: 200px;
+      height: 300px;
+      margin-top: 300px;
+      margin-bottom: 300px;
+}
+ h1{
+  position: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 278px;
+height: 72px;
+left: 581px;
+font-family: League Spartan;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 72px;
+}
+.columns img{
+  position: relative;
+  height: 100vh;
+  display: flex;
+    margin: auto;
+    position: absolute;
+width: 545px;
+height: 485px;
+margin-top: 60px;
+margin-bottom: 60px;
 
-
+}
+.con{
+  margin-top: 60px;
+    padding-left: 140px;
+    padding-right: 140px;
+    justify-content: center;
+    color: #000;
+}
+.con span{
+  font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+}
+p {
+    margin-top: 28px;
+    margin-bottom: 1rem;
+    justify-content: center;
+  }
 
 
 
